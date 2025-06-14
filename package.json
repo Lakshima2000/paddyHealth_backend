@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@types/socket.io-client": "^1.4.36",
+    "expo-file-system": "^18.1.10",
+    "socket.io-client": "^4.8.1"
+  }
+}

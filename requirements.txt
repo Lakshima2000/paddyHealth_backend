@@ -1,0 +1,18 @@
+flask==2.3.3
+flask-sqlalchemy==3.1.1
+flask-jwt-extended==4.5.3
+flask-cors==4.0.0
+flask-mail==0.9.1
+python-dotenv==1.0.0
+bcrypt==4.0.1
+pillow==10.0.0
+numpy>=1.26.0
+torch>=2.2.0
+torchvision>=0.17.0
+ftfy
+regex
+tqdm
+clip @ git+https://github.com/openai/CLIP.git
+gunicorn==21.2.0
+python-jose==3.3.0 
+flask_socketio
