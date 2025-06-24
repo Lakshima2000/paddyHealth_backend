@@ -139,13 +139,10 @@ Feel free to contribute to this project! Here's how:
 3. Make your changes
 4. Submit a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors
+- Thanks to all contributors and supervisor Dr chamara
 - Special thanks to the open-source community
 - Inspired by the need to help farmers detect plant diseases early
 
@@ -163,7 +160,6 @@ If you need help:
 - 📸 Image upload
 - 🤖 AI-powered disease detection
 - 📱 Real-time results
-- 📧 Email notifications
 - 🔒 Secure API endpoints
 
 ## 🔮 Future Improvements
@@ -248,14 +244,6 @@ Currently supports:
 - English
 - More languages coming soon
 
-## 📊 Analytics
-
-The application tracks:
-
-- User registrations
-- Predictions made
-- Success rate
-- Error rates
 
 ## 🔄 Updates
 
